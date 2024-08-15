@@ -1,3 +1,7 @@
 git clone <link> - clone the repo ro local computer.
 git config --blobal user.name <username> - set username for git
 git config --global user.email <email> - set email for git
+
+git add <file> - add file
+git commit - m "message of what is updated in files"
+git push origin main -  push all codes file to the repo.
