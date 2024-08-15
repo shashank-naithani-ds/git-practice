@@ -1,8 +1,7 @@
 # Git-Practice
 
 Git learning essentials
+<br>
 
-git clone <link> - clone the repo ro local computer.
-git config --blobal user.name <username> - set username for git
-git config --global user.email <email> - set email for git
+<b>Author</b>: Shashank Naithani
 
