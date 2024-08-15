@@ -1,2 +1,2 @@
-# git-practice
+# Git-Practice
 Git learning essentials
